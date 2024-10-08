@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",  // 出力ディレクトリが正しく設定されているか確認
+    "rootDir": "./src",
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
